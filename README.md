@@ -37,7 +37,7 @@ SOFTWARE.
 
 # Machine Learning Engineer Nanodegree
 ## Project: Titanic Survival Exploration 
-## Author/modifier: Dara Rouholiman(dara.rouholiman@gmail.com)
+## Dara Rouholiman(dara.rouholiman@gmail.com)
 
 ### Install
 
